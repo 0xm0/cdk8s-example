@@ -18,9 +18,11 @@
   "dependencies": {
     "cdk8s": "^1.0.0-beta.8",
     "cdk8s-plus-17": "^1.0.0-beta.8",
-    "constructs": "^3.3.20"
+    "constructs": "^3.3.20",
+    "express": "^4.17.1"
   },
   "devDependencies": {
+    "@types/express": "^4.17.11",
     "@types/jest": "^26.0.20",
     "@types/node": "^14.14.27",
     "cdk8s-cli": "^1.0.0-beta.8",
